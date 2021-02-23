@@ -1,6 +1,5 @@
-def soma(num1, num2):
-	return num1 + num2
+def sum(num1, num2):
+	return sum1 + sum2;
 
 if __name__ == '__main__':
-	print(soma(1, 2));
-
+	print(sum(1, 2));
