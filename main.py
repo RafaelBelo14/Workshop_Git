@@ -1,3 +1,6 @@
+def soma(num1, num2):
+	return num1 + num2
+
 if __name__ == '__main__':
-	print('ola');
+	print(soma(1, 2));
 
